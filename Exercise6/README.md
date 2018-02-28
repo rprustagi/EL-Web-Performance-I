@@ -15,7 +15,7 @@ HTTP request sent, awaiting response... 200 OK\
 Length: 153 [text/html]\
 Saving to: `pictures.html.1'\
 \
-100%[================================================>] 153         --.-K/s   in 0s\
+100%[================================================>] 153 --.-K/s   in 0s\
 \
 2018-02-28 22:54:41 (8.58 MB/s) - `pictures.html.1' saved [153/153]\
 \
@@ -27,7 +27,7 @@ HTTP request sent, awaiting response... 200 OK\
 Length: 385 [text/html]\
 Saving to: `pictures.html.2'\
 \
-100%[================================================>] 385         --.-K/s in 0s\
+100%[================================================>] 385 --.-K/s in 0s\
 \
 2018-02-28 22:55:34 (19.3 MB/s) - `pictures.html.2' saved [385/385]\
 
