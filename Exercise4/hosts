@@ -1,0 +1,8 @@
+##
+# Host Database
+#
+# localhost is used to configure the loopback interface
+# when the system is booting.  Do not change this entry.
+##
+127.0.0.1	localhost rprmacpro
+10.211.55.9	myweb.com img1.myweb.com img2.myweb.com
